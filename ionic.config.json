@@ -1,0 +1,7 @@
+{
+  "name": "mama",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
